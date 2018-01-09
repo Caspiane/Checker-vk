@@ -1,14 +1,13 @@
-# Checker-vk
-Get tokeи by password and login from vk
-
+# Checker For vk
+Get tokeи by password and login from vk <br/>
 Получение токена на неограниченное время по логину и поролю вк
 
-# Installation
+# Установка
 
-В файле config.py указываем ключ от Recaptcha, так как иногда вк выдает каптчу.
+В файле config.py указываем ключ от Recaptcha, так как иногда вк выдает каптчу. <br/>
 
-Запускаем **main.py**
-
+**1)** Запускаем **main.py** <br/>
+**2)** Выбираем формат и чекаем
 Есть два формата.
 
 Формат 1:
