@@ -4,13 +4,13 @@ Get tokeи by password and login from vk <br/>
 
 # Установка
 
-В файле config.py указываем ключ от Recaptcha, так как иногда вк выдает каптчу. <br/>
+В файле config.py указываем ключ от Recaptcha, так как иногда вк выдает каптчу.
 
 **1)** Запускаем **main.py** <br/>
 **2)** Выбираем формат и чекаем
 Есть два формата.
 
-Формат 1:
+Формат 1: (**data_json.txt**)
 ```json
 [
 	{
@@ -21,7 +21,7 @@ Get tokeи by password and login from vk <br/>
 	}
 ]
 ```
-Формат 2:
+Формат 2: (**data_text.txt**)
 
 ```text
 login1 pass1
